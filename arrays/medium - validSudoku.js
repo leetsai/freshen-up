@@ -15,6 +15,7 @@ const isValidSudoku = (grid) => {
       if (vSet[j].has(curr)) return false;
       vSet[j].add(curr);
       
+      // idx formula is a way to group 3x3's and assign them an "index"
       const idx = Math.floor(i / 3) * 3 + Math.floor(j / 3);
       if (boxSet[idx].has(curr)) return false;
       boxSet[idx].add(curr);
