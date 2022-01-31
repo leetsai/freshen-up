@@ -9,7 +9,7 @@ Longest Substring with Same Letters after Replacement * (hard)
 * Longest Subarray with Ones after Replacement (hard)
 
 ## Two Pointers
-* Pair with Target Sum (easy)
+* [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) (easy)
 * Remove Duplicates (easy)
 * Squaring a Sorted Array (easy)
 * Triplet Sum to Zero (medium)
