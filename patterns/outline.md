@@ -11,7 +11,7 @@ Longest Substring with Same Letters after Replacement * (hard)
 ## Two Pointers
 * [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) (easy)
 * [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) (easy)
-* Remove Duplicates (easy)
+* [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (easy)
 * Squaring a Sorted Array (easy)
 * Triplet Sum to Zero (medium)
 * Triplet Sum Close to Target (medium)
