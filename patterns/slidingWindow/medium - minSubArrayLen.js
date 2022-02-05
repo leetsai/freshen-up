@@ -6,6 +6,7 @@ const minSubArrayLen = (target, nums) => {
   for (let i = 0; i < nums.length; i++) {
     sum += nums[i];
 
+    // as long as sum is >= target, attempt to shrink the window
     while (sum >= target) {
       len = Math.min(len, i - left + 1);
       sum -= nums[left];
