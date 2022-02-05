@@ -15,9 +15,9 @@ Longest Substring with Same Letters after Replacement * (hard)
 * [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) (easy)
 * [Two Sum](https://leetcode.com/problems/two-sum/) (easy)
 * [Three Sum](https://leetcode.com/problems/3sum/) (medium)
-* Triplet Sum Close to Target (medium)
-* Triplets with Smaller Sum (medium)
-* Subarrays with Product Less than a Target (medium)
+* [3Sum Closest](https://leetcode.com/problems/3sum-closest/) (medium)
+* [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) (medium)
+* [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) (medium)
 * Dutch National Flag Problem (medium)
 
 ## Fast & Slow pointers
