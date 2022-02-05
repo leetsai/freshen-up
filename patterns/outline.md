@@ -1,11 +1,11 @@
 # Patterns
 ## Sliding Window
 * [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
-* Smallest Subarray With a Greater Sum (easy)
-Longest Substring with maximum K Distinct Characters * (medium)
+* [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (medium)
+* Longest Substring with maximum K Distinct Characters (medium)
 * Fruits into Baskets (medium)
-Longest Substring with Distinct Characters (hard
-Longest Substring with Same Letters after Replacement * (hard)
+* Longest Substring with Distinct Characters (hard
+* Longest Substring with Same Letters after Replacement (hard)
 * Longest Subarray with Ones after Replacement (hard)
 
 ## Two Pointers
