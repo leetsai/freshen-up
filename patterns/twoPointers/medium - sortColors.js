@@ -6,6 +6,7 @@
   that all balls of the same color are together and their collective color groups are in the correct order.
 */
 
+// Solution walk through https://www.youtube.com/watch?v=sEQk8xgjx64
 const sortColors = (nums) => {
   let left = 0, mid = 0, right = nums.length - 1;
 
