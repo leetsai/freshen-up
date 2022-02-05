@@ -9,7 +9,8 @@ const threeSumClosest = (nums, target) => {
     while (lo < hi) {
       let sum = sorted[i] + sorted[lo] + sorted[hi];
       
-      if (Math.abs(sum - target) < Math.abs(ans)) {
+      // Math.abs(target - sum) represents the closeness of sum to target
+      if (Math.abs(target - sum) < Math.abs(ans)) {
         ans = target - sum;
       }
 
