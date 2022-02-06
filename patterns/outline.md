@@ -2,9 +2,9 @@
 ## Sliding Window
 * [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
 * [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (medium)
-* Longest Substring with maximum K Distinct Characters (medium)
-* Fruits into Baskets (medium)
-* Longest Substring with Distinct Characters (hard
+* [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) (medium)
+* [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (medium)
+* [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (hard)
 * Longest Substring with Same Letters after Replacement (hard)
 * Longest Subarray with Ones after Replacement (hard)
 
@@ -13,7 +13,7 @@
 * [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) (easy)
 * [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (easy)
 * [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) (easy)
-* [Two Sum](https://leetcode.com/problems/two-sum/) (easy)
+* [Two Sum](https://leetcode.com/problems/two-sum/) (easy)****
 * [Three Sum](https://leetcode.com/problems/3sum/) (medium)
 * [3Sum Closest](https://leetcode.com/problems/3sum-closest/) (medium)
 * [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) (medium)
