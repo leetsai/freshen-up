@@ -5,7 +5,7 @@
 * [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) (medium)
 * [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (medium)
 * [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (hard)
-* Longest Substring with Same Letters after Replacement (hard)
+* [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) (medium)
 * Longest Subarray with Ones after Replacement (hard)
 
 ## Two Pointers
