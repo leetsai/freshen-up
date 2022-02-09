@@ -4,7 +4,7 @@
 * [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (medium)
 * [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) (medium)
 * [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (medium)
-* [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (hard)
+* [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium)
 * [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) (medium)
 * [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) (medium)
 
