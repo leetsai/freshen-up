@@ -21,7 +21,7 @@
 * [Sort Colors]() aka Dutch National Flag Problem (medium)
 
 ## Fast & Slow pointers
-* LinkedList Cycle (easy)
+* [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (easy)
 * Start of LinkedList Cycle (medium)
 * Happy Number (medium)
 * Middle of the LinkedList (easy)
