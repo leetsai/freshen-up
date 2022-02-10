@@ -24,7 +24,7 @@
 * [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (easy)
 * [Start of LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle-ii/) (medium)
 * [Happy Number](https://leetcode.com/problems/happy-number/) (easy)
-* Middle of the LinkedList (easy)
+* [Middle of the LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/) (easy)
 
 ## Merge Intervals
 * Merge Intervals (medium)
