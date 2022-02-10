@@ -23,7 +23,7 @@
 ## Fast & Slow pointers
 * [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (easy)
 * [Start of LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle-ii/) (medium)
-* Happy Number (medium)
+* [Happy Number](https://leetcode.com/problems/happy-number/) (easy)
 * Middle of the LinkedList (easy)
 
 ## Merge Intervals
