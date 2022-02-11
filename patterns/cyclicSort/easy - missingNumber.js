@@ -1,6 +1,7 @@
 const missingNumber = nums => {
   let i = 0;
 
+  // starting at 0, each number tell you where they belong!
   while (i < nums.length) {
     let correct = nums[i];
 
@@ -13,15 +14,16 @@ const missingNumber = nums => {
 
   let j = 0;
 
+  // j acts as a counter and tells us where things are off sync!
   while (j <= nums.length) {
     if (j !== nums[j]) {
-      return j;
+      break;
     }
 
     j++;
   }
 
-  return nums.length - 1;
+  return j;
 }
 
 const swap = (nums, i, correct) => {
