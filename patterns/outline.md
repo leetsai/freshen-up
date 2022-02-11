@@ -36,8 +36,8 @@
 * Cyclic Sort (easy)
 * [Find the Missing Number](https://leetcode.com/problems/missing-number/) (easy)
 * [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) (easy)
-* [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (easy)
-* Find all Duplicate Numbers (easy)
+* [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (easy/medium)
+* [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) (easy/medium)
 
 ## In-place Reversal of a LinkedList
 * Reverse a LinkedList (easy)
