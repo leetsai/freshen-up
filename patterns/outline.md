@@ -34,7 +34,7 @@
 
 ## Cyclic Sort
 * Cyclic Sort (easy)
-* Find the Missing Number (easy)
+* [Find the Missing Number](https://leetcode.com/problems/missing-number/) (easy)
 * Find all Missing Numbers (easy)
 * Find the Duplicate Number (easy)
 * Find all Duplicate Numbers (easy)
