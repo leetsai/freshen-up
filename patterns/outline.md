@@ -40,7 +40,7 @@
 * [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) (easy/medium)
 
 ## In-place Reversal of a LinkedList
-* Reverse a LinkedList (easy)
+* [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (easy)
 * Reverse a Sub-list (medium)
 * Reverse every K-element Sub-list (medium)
 
