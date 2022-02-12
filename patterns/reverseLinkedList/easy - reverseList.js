@@ -1,3 +1,4 @@
+// this video is pretty good: https://www.youtube.com/watch?v=O0By4Zq0OFc
 const reverseList = head => {
   let prev = null, curr = head, next = null;
 
