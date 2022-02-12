@@ -41,7 +41,7 @@
 
 ## In-place Reversal of a LinkedList
 * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (easy)
-* Reverse a Sub-list (medium)
+* [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) (medium)
 * Reverse every K-element Sub-list (medium)
 
 ## Tree Breadth First Search
