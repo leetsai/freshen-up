@@ -45,7 +45,7 @@
 * Reverse every K-element Sub-list (medium)
 
 ## Tree Breadth First Search
-* Binary Tree Level Order Traversal (easy)
+* [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (medium)
 * Reverse Level Order Traversal (easy)
 * Zigzag Traversal (medium)
 * Level Averages in a Binary Tree (easy)
