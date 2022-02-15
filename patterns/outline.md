@@ -49,7 +49,7 @@
 * [Reverse Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) (medium)
 * [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (medium)
 * [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) (easy)
-* Minimum Depth of a Binary Tree (easy)
+* [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) (easy)
 * Level Order Successor (easy)
 * Connect Level Order Siblings (medium)
 
