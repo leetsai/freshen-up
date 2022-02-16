@@ -54,7 +54,7 @@
 * Connect Level Order Siblings (medium)
 
 ## Tree Depth First Search
-* Binary Tree Path Sum (easy)
+* [Binary Tree Path Sum](https://leetcode.com/problems/path-sum/) (easy)
 * All Paths for a Sum (medium)
 * Sum of Path Numbers (medium)
 * Path With Given Sequence (medium)
