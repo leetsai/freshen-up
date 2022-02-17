@@ -55,7 +55,7 @@
 
 ## Tree Depth First Search
 * [Binary Tree Path Sum](https://leetcode.com/problems/path-sum/) (easy)
-* All Paths for a Sum (medium)
+* [All Paths for a Sum](https://leetcode.com/problems/path-sum-ii/) (medium)
 * Sum of Path Numbers (medium)
 * Path With Given Sequence (medium)
 * Count Paths for a Sum (medium)
