@@ -11,7 +11,7 @@ function solution(sequence) {
     if (sequence[i] <= sequence[i - 1]) {
       quota--;
       // check if more than one nonincreasing found
-      if (quota <= 0) return false;
+      if (quota < 0) return false;
 
       // if this condition fails, we know deleting current or next won't help
       if (
