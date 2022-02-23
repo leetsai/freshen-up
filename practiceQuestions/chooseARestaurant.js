@@ -54,3 +54,6 @@ preferences = [
 ];
 console.log(solution(preferences));
 // 5
+preferences = [[], [], []];
+console.log(solution(preferences));
+// -1
