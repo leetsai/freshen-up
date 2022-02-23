@@ -6,9 +6,11 @@ const waysToSplit = (arr) => {
   let sum = arr[arr.length - 1],
     avg = sum / 3;
   let ans = 0;
+
   if (sum === 0) {
     return arr.length + 1;
   }
+
   for (let i = 0, j = 1, k = 1; arr[i] <= average; i++) {
     while (arr[j] - arr[i] < arr[j] / 2) {
       j++;
