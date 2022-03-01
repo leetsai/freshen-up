@@ -7,6 +7,13 @@
   Output: [[-1,-1,2],[-1,0,1]]
 */
 
+/*
+  Big idea: We want all triplets where a + b + c = 0. So there must be triplets where -a = b + c.
+  The goal is to first sort the original array then apply two pointers search. It is actually three pointers.
+
+  Note: Need to watch out for some uniqueness constraints.
+*/
+
 const threeSum = (nums) => {
   const sorted = nums.sort((a, b) => a - b);
   const ans = [];
