@@ -71,6 +71,10 @@ function solution(a, m, k) {
         // only need to confirm that there's at least 1 pair. we're not trying to get the total pair count
         break;
       }
+
+      // if we haven't broken out and while loop terminates, then the subarray has no pairs where a[s] + a[t] >= k
+      // reason: we anchored a[t] to be as large as can be and iteratively increased a[s] by moving "left"
+      // if a[t] + a[t - 1] doesn't get >= k, then nothing else in that range will
     }
   }
 
