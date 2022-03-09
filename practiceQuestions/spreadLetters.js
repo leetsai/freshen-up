@@ -27,10 +27,10 @@ function solution(arr) {
   let temp = [];
 
   for (let i = 0; i < arr.length; i++) {
+    // this will tell us how many cycles to go
     maxStringLength = Math.max(arr[i].length, maxStringLength);
-  }
 
-  for (let i = 0; i < arr.length; i++) {
+    // prepare the strings for array's shift method
     temp.push(arr[i].split(''));
   }
 
